@@ -19,5 +19,13 @@
     "dev": "webpack-dev-server --inline --hot --history-api-fallback --content-base public"
   },
   "author": "Vinicius Vinhas",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimaGuilherme/react-series.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LimaGuilherme/react-series/issues"
+  },
+  "homepage": "https://github.com/LimaGuilherme/react-series#readme"
 }

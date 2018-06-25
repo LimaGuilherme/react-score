@@ -1,12 +1,11 @@
 # React Score
 
-This package have files with basic example fo score board.
+This package have files with basic example of score board.
 
 ## Getting Started
 
 ```
 $ git clone https://github.com/LimaGuilherme/react-score.git
-
 ```
 ```
 $ cd react-series
@@ -25,7 +24,6 @@ http://localhost:8080/
 ## Built With
 
 * [React]
-
 
 * **Guilherme Lima** - *Initial work* - [GitHub](https://github.com/LimaGuilherme)
 
